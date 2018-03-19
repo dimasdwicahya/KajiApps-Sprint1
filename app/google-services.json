@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "110768834773",
+    "firebase_url": "https://kajianapps.firebaseio.com",
+    "project_id": "kajianapps",
+    "storage_bucket": "kajianapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110768834773:android:da5588f92997fab1",
+        "android_client_info": {
+          "package_name": "com.example.mobivision.kajiapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110768834773-0ph00naore637n149irn4hlmea3cokms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrBu44Ym6kY9es1kAn4zR5nEecFL804ME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
